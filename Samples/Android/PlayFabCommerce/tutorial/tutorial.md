@@ -381,8 +381,8 @@ to set up in-app products from both platforms and how the purchase
 validation flow works in order to set up a typical app economy
 consisting of items purchasable with real money and virtual currencies.
 
-For any further questions, please feel free to post to the forums or
-contact devrel to get in touch with the tutorial author in the Advanced
+For any further questions, please feel free to post to the [forums](https://community.playfab.com/index.html) or
+contact xboxatgservices@gmail.com(subject: PlayFabCommerce) to get in touch with the tutorial author in the Advanced
 Technology Group.
 
 Appendix A: How to manage keystores
